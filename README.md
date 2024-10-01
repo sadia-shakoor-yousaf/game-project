@@ -52,11 +52,7 @@ You can save and load your game progress with these commands:
 
 ---
 
-Here’s an updated **complete gameplay walkthrough** that includes **both correct actions and errors**, demonstrating how the game handles invalid actions and incorrect answers alongside the successful gameplay:
-
----
-
-### **Complete Gameplay Walkthrough with Errors**
+### **Complete Gameplay Walkthrough**
 
 ```
 > look
@@ -177,16 +173,6 @@ That’s not the correct answer. Please try again. (Enter q if you don’t want 
 > vampire
 Correct! The pantry door creaks open, revealing a secret passage. You step through and escape the castle! Congratulations!!
 ```
-
-### **Key Features and Errors Demonstrated**:
-1. **Navigation Errors**: The player tries to go in invalid directions (`go south`, `go down` from the Kitchen), which results in an error message.
-2. **Item Errors**: The player attempts to take a locked item (`book`) but is informed that the bookshelf is locked.
-3. **Riddle Errors**: The player answers a riddle incorrectly twice (`memories` and `ghost`), showing the game's prompt to retry or exit.
-4. **Inventory Errors**: The player tries to use an item they don't have (`use bread` in the Dungeon before taking it).
-5. **Correct Actions**: Successfully solving riddles, taking items, using them correctly (key, bread, knife, dog’s paw), and eventually escaping the castle.
-
-This **complete gameplay output** demonstrates the full range of the game’s functionality, including how errors are handled, while guiding the player through a successful completion.
-
 
 ## **How to Run the Game**
 

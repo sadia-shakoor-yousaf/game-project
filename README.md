@@ -1,4 +1,4 @@
-#**The Mysterious Castle Adventure**
+# **The Mysterious Castle Adventure**
 ## **SP23-BAI-047**
 ## **Game Overview**
 **The Mysterious Castle Adventure** is a Python-based text adventure game where you find yourself trapped in an ancient, mysterious castle. Your goal is to explore different rooms, collect items (keep in mind that not every item is necessary to pick up), solve riddles, and escape. Along the way, you must interact with objects, solve puzzles, and befriend a dog to unlock a secret passage that leads to freedom.

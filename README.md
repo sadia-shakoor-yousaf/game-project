@@ -52,6 +52,7 @@ You can save and load your game progress with these commands:
 
 ---
 
+
 ### **Complete Gameplay Walkthrough**
 
 ```
@@ -173,6 +174,7 @@ That’s not the correct answer. Please try again. (Enter q if you don’t want 
 > vampire
 Correct! The pantry door creaks open, revealing a secret passage. You step through and escape the castle! Congratulations!!
 ```
+
 
 ## **How to Run the Game**
 
